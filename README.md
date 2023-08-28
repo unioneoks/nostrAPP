@@ -1,5 +1,5 @@
 # nostrAPP
 NOSTRAPP
 # Features
-- [x] Nostr tool
+- [x] Nostr tool-Built-in various Nostr based websites
 
